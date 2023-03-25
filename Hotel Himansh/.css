@@ -1,0 +1,446 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+}
+div{
+    float: left;
+}
+
+
+/* Navigation Bar */
+.a{
+    width: 100%;
+    background-color: #f7f7f7;
+}        
+.a1{
+    width: 30%;
+    font-size: 20px;
+}
+.a2{
+    width: 70%;
+}
+.a3 >li{
+    display: inline;
+    font-size: 20px;
+    padding: 18px;
+    text-decoration-line: none;
+}
+
+
+/* Image */
+
+.img1{
+    height: 100px;
+    width: 80%;
+    background-color:transparent;
+}
+ 
+.b{
+    width: 100%;
+    background-color:azure;
+}
+.img2{
+    width: 100%;
+    height: 550px;
+}
+
+.img3{
+    text-align: center;
+    max-width: 100%;
+    width: 300px;
+    padding-left: 37%;      
+  }
+
+  .img4{
+    padding-left: 25%;
+}
+
+/* Footer Side Image */
+
+
+.n{
+    width: 100%;
+    padding-top: 4%;
+    padding-bottom: 2%;
+    background-color: #fbf5f5;
+}
+
+.img6,.img7,.img8{
+    width: 32%;
+    padding-left: 6%;
+    height: 250px;
+
+}
+
+.img9{
+    width:90%;
+    text-align: center;
+    height: 500px;
+    padding-left: 5%;
+
+}
+/*................*/
+
+.h1{
+    color:#000;
+}
+
+.h11{
+    text-align:center;
+    font-size: 34px;
+    line-height: 43px;
+    font-family:'Times New Roman', Times, serif;
+    word-spacing: 3px;
+    color:#000;
+    padding-top: 2%;
+}
+.q{
+    text-align:center;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    word-spacing: 2px;
+}
+
+/*............*/
+
+  .c{
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 2px;
+    background-color: rgb(252, 253, 253);
+    padding-bottom: 2%;
+  }
+  
+
+  .d{
+    width: 100%;
+    background-color: #fbf7e8;
+    padding-top: 2%;
+  }
+  .d1{
+    width: 33%;
+    text-align: center;
+  }
+  .d2{
+    width: 33%;
+    text-align: center;
+  }
+  .d3{
+    width: 34%;
+    text-align: center;
+  }
+
+  /* Footer */
+    .e{
+        width: 100%;
+        background-color: #000;
+        color:white;
+        height: auto;
+
+    }
+    .e1{
+        width: 34%;
+        padding-left: 10%;
+        color: white;
+    }
+    .e2{
+        width: 33%;
+        padding-left: 5%;
+        color: white;
+    }
+    .e3{
+        width: 33%;
+        padding-right: 10%;
+        text-decoration-line: none;
+        color:black;
+    }
+    .color{
+        background-color:#fbf7e8;
+    }
+    
+
+
+
+    .f2{
+        text-align:center;
+        padding-left:13%;
+        padding-right: 13%;
+        font-size: 20px;
+        font-family:'Times New Roman', Times, serif;
+        padding-top: 2%;
+        color: #000;
+        word-spacing: 3px;
+       }
+    
+       .g{
+        width: 100%;
+        font-size: 20px;
+        background-color:#dbede7
+       }
+
+       .g1{
+        width: 50%;
+        padding-left: 10%;
+        padding-right: 2%;
+        text-align: justify;
+        margin-bottom: 2%;
+        color: #000;
+        padding-top: 3%;
+       }
+
+     .g2{
+      width: 50%;
+     }
+
+     .haveli{
+      width: 90%;
+      padding-left: 5%;
+      padding-right: 5%;
+      height: 500px;
+      border-radius: 10px;
+      padding-top: 5%;
+     }
+
+    
+
+    /* Facilities Page */
+
+       .i{
+        width: 100%;
+        padding-left: 15%;
+        padding-right: 10%;
+        background-color: beige;
+    }
+    .i1,.i2,.i3,.i4,.i5,.i6,.i7,.i8,.i9,.i10,.i11,.i12{
+        margin: 1% 2% 1% 2%;
+        width: 20%;
+        background-color: rgb(220, 158, 72);
+        text-align: center;
+        height: 100px;
+        font-size: 14px;
+        font-weight: 600;
+        color: #780124;
+     }
+
+     
+    /* Restaurant Page */
+
+     .k{
+        width: 100%;
+        background-color:rgb(225, 244, 238);
+        padding-top: 2%;
+    }
+    .k1{
+        width: 50%;
+    }
+    .k2{
+        width: 50%;
+    }
+    .restaurent{
+        width: 90%;
+        height: 550px;
+        padding-left: 15%;
+    }
+    
+    
+    .k3{
+      text-align:center;
+      padding-right: 25%;
+      font-size: 20px;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      color: #626262;     
+      }
+
+      .l{
+        width: 100%;
+        background-color: #730024;
+        color: white;
+        height: 200px;
+        padding-top: 3%;
+        padding-bottom: 2%;
+      }
+     .l1{
+        text-align: center;
+        font-size: 20px;
+        padding-left: 10%;
+        padding-right: 10%;
+       }
+        
+    .m{
+        width: 100%;
+        padding-top: 3%;
+        background-color: #fbf7e8;
+    }
+    .m1{
+        width: 50%;
+    }
+     
+     
+
+    
+    /* Booking Page */
+    .o{
+        width: 100%;
+        padding-top: 3%;
+        background-color: rgb(205, 243, 243);
+    }
+    .o1{
+        width: 50%;
+        padding-left: 4%;
+        font-size: 18px;
+    }
+    .o2{
+        width: 50%;
+       
+    }
+
+    .p{
+        width: 100%;
+        background-color: #fbf5f5;
+        font-size: 25px;
+    }
+    .p1{
+        width: 34%;
+        text-align: center;
+        font-size: 20px;
+    }
+    .p2,.p3{
+        width: 33%;
+        text-align: center;
+    }
+
+
+  .q{
+    text-align: center;
+  }
+
+
+  /*for form */
+
+    body {font-family: Arial, Helvetica, sans-serif;}
+
+/* Full-width input fields */
+input[type=text], input[type=password] , input[type=address] , input[type=phone] , input[type=email]{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #478d73;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+  color: #c9ecdf;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+/* Center the image and position the close button */
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+  position: relative;
+}
+
+img.avatar {
+  width: 20%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  padding-top: 60px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+  position: absolute;
+  right: 25px;
+  top: 0;
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: red;
+  cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+  -webkit-animation: animatezoom 0.6s;
+  animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+  from {-webkit-transform: scale(0)} 
+  to {-webkit-transform: scale(1)}
+}
+  
+@keyframes animatezoom {
+  from {transform: scale(0)} 
+  to {transform: scale(1)}
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+}
+
+
+
